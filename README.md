@@ -9,7 +9,7 @@ Vector cv = vector_Create(sizeof(int));
 2.向已创建的 Vector 容器的尾部插入一个元素( i ）
 int i = 1;
 vector_Pushback(cv, &i);
-3.向已创建的 Vector 容器的尾部
+3.向已创建的 Vector 容器的尾部删去一个元素
 ## Describe your project
 
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
