@@ -25,7 +25,7 @@ vector_Erase(cv, begin, end);
 vector_Length(cv);  
   
 7. 获取 Vector 的元素个数  
-vector_Size(Vector cv);  
+vector_Size(cv);  
   
 8. Vector 遍历函数(打印Vector中的元素)  
 void print_Int(void* cv){  
